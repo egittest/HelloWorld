@@ -16,4 +16,8 @@ public class Conflict {
 	public void hehe() {
 		System.out.println("hehe");
 	}
+
+	public void xixi() {
+		System.out.println("xiix");
+	}
 }
