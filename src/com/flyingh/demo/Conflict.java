@@ -7,4 +7,8 @@ public class Conflict {
 		System.out.println("CA");
 		System.out.println("CC");
 	}
+
+	public void haha() {
+		System.out.println("haha");
+	}
 }
