@@ -5,6 +5,7 @@ public class Hello {
 		System.out.println("Hello world!!!");
 		System.out.println(add(1, 1));
 		System.out.println(mul(2, 3));
+		System.out.println("aaa");
 	}
 
 	public static int sub(int a, int b) {
