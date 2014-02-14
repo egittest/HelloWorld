@@ -6,6 +6,7 @@ public class Conflict {
 		System.out.println("cb");
 		System.out.println("CA");
 		System.out.println("CC");
+		System.out.println("Haa");
 	}
 
 	public void haha() {
