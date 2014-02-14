@@ -20,4 +20,8 @@ public class Conflict {
 	public void xixi() {
 		System.out.println("xiix");
 	}
+
+	public void test() {
+		System.out.println("this is a test!");
+	}
 }
