@@ -5,5 +5,6 @@ public class Conflict {
 		System.out.println("ca");
 		System.out.println("cb");
 		System.out.println("CA");
+		System.out.println("CC");
 	}
 }
