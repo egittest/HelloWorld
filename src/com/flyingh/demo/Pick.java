@@ -7,4 +7,9 @@ public class Pick {
 	public void test() throws Exception {
 		System.out.println("hello");
 	}
+
+	@Test
+	public void test2() throws Exception {
+		System.out.println("world");
+	}
 }
