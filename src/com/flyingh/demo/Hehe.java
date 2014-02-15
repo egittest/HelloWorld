@@ -8,4 +8,8 @@ public class Hehe {
 	private static void say() {
 		System.out.println("Hehe");
 	}
+
+	public void add(int a, int b) {
+		System.out.println(a + b);
+	}
 }
