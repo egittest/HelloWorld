@@ -21,6 +21,15 @@ public class Hehe {
 		System.out.println(a * b);
 	}
 
+	/**
+	 * add pow operation
+	 * @param a
+	 * @param b
+	 */
+	public void pow(int a, int b) {
+		System.out.println(Math.pow(a, b));
+	}
+
 	public void mod(int a, int b) {
 		System.out.println(a % b);
 	}
