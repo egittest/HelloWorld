@@ -22,6 +22,10 @@ public class Hehe {
 	}
 
 	public void div(int a, int b) {
+		if (b == 0) {
+			System.out.println("/ by zero");
+			return;
+		}
 		System.out.println(a / b);
 	}
 
