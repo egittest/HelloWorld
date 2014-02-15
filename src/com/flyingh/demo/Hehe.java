@@ -29,4 +29,12 @@ public class Hehe {
 		System.out.println(a / b);
 	}
 
+	public void sum(int... ints) {
+		int sum = 0;
+		for (int i : ints) {
+			sum += i;
+		}
+		System.out.println(sum);
+	}
+
 }
