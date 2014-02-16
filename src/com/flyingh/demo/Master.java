@@ -8,5 +8,6 @@ public class Master {
 		System.out.println("add Master class");
 		System.out.println("A");
 		System.out.println("B");
+		System.out.println("C");
 	}
 }
